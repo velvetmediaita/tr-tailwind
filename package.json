@@ -1,7 +1,6 @@
 {
   "name": "tailwind",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "npm run development",
@@ -12,9 +11,7 @@
     "prod": "npm run production",
     "production": "mix --production"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "autoprefixer": "^10.2.4",
     "postcss": "^8.2.4",
