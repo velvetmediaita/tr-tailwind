@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer components {
+	.colored-card {
+		@apply absolute inset-0 bg-gradient-to-r shadow-lg transform sm:skew-y-0 sm:rounded-3xl;
+	}
+	.box {
+		@apply h-24 rounded-md flex items-center justify-center text-white text-2xl font-extrabold;
+	}
+}
