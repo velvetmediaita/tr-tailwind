@@ -4,10 +4,8 @@ Tailwind:
 	☐	tailwind.config
 
 Branch master:
-	☐	layout
+	☐	index.html
+	☐	grid.html
 
 Branch dark:
-	☐	layout
-
-Grid:
-	☐	grid.html
+	☐	index.html
